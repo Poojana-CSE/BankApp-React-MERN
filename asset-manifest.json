@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BankApp-React-MERN/static/css/main.dd78f5ce.css",
+    "main.js": "/BankApp-React-MERN/static/js/main.b68841fb.js",
+    "index.html": "/BankApp-React-MERN/index.html",
+    "main.dd78f5ce.css.map": "/BankApp-React-MERN/static/css/main.dd78f5ce.css.map",
+    "main.b68841fb.js.map": "/BankApp-React-MERN/static/js/main.b68841fb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd78f5ce.css",
+    "static/js/main.b68841fb.js"
+  ]
+}
